@@ -13,7 +13,8 @@ Profile History
 > 💼 Adelko Printing House : Jun 2019 `Product Engineer`<br />
 > 💼 Sykes Asia : Jun 2021 `Associate Software Engineer`<br />
 > 💼 Ernst & Young - EY GDS : Jan 2023 `IAM - JAVA Developer`<br />
-> 💼 Ascendion Inc : May 2023 - (PRESENT) `.NET Engineer`<br />
+> 💼 Ascendion Inc : May 2023 - Feb 2026 `.NET Engineer`<br />
+> 💼 Claymore Solutions : Apr 2026 - (PRESENT) `Senior Backend Engineer`<br />
 <br />
 
 <p align="left">
