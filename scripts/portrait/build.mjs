@@ -31,10 +31,10 @@ const infoLines = [
 ];
 
 const coreLines = [
-  ['Core.Lang', 'C#, TypeScript, JavaScript, SQL'],
+  ['Core.Lang', 'C#, TypeScript, Python, SQL'],
   ['Core.Frontend', 'React, Next.js, Blazor, Tailwind'],
-  ['Core.Backend', 'ASP.NET Core Web API, EF Core, LINQ'],
-  ['Core.Database', 'SQL Server, PostgreSQL, Redis'],
+  ['Core.Backend', 'ASP.NET Core Web API, Kafka, Event Sourcing'],
+  ['Core.Database', 'SQL Server, PostgreSQL, ClickHouse, Redis'],
   ['Core.Infra', 'Azure, Docker, Kubernetes, Azure Pipelines'],
 ];
 
