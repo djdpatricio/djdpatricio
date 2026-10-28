@@ -38,6 +38,18 @@ Every line of code I write is part of something thoughtfully designed — from p
   </a>
 </p>
 
+<p align="left">
+  <a href="https://tinyurl.com/djp-resume-new-latest-2026">
+    <img alt="resume" title="View my resume" src="https://img.shields.io/badge/Resume-4285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+  <a href="https://tinyurl.com/djp-techstack">
+    <img alt="tech stack" title="View my tech stack map" src="https://img.shields.io/badge/Tech_Stack-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+  </a>
+  <a href="https://tinyurl.com/djp-skills-rating">
+    <img alt="skills rating" title="View my skills rating" src="https://img.shields.io/badge/Skills_Rating-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ### 🧰 Programming Languages
