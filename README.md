@@ -27,11 +27,11 @@ Profile History
   <a href="tel:+639955936280">
     <img alt="phone" title="Call me" src="https://img.shields.io/badge/Phone-%2300C853.svg?style=for-the-badge&logo=phone&logoColor=white"/>
   </a>
-  <a href="https://github.com/MasterConnoisseurs?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/MasterConnoisseurs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  <a href="https://github.com/djdpatricio?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/djdpatricio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
-  <a href="https://github.com/MasterConnoisseurs?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/MasterConnoisseurs?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  <a href="https://github.com/djdpatricio?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/djdpatricio?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </p>
 
@@ -147,6 +147,6 @@ Profile History
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterConnoisseurs&show_icons=true&theme=dark" alt="MasterConnoisseurs's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=djdpatricio&show_icons=true&theme=dark" alt="djdpatricio's GitHub Stats" />
 </div>
 
