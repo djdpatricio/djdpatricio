@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;Full+Stack+.NET+Developer;C%23+%7C+TypeScript+%7C+SQL;ASP.NET+Core+%7C+React+%7C+Next.js+%7C+Blazor;Azure+%7C+Docker+%7C+Kubernetes;Studying+AI+Engineering+%7C+Cybersecurity+%7C+Backend+Engineering">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;Full+Stack+.NET+Developer;C%23+%7C+TypeScript+%7C+SQL;ASP.NET+Core+%7C+React+%7C+Next.js+%7C+Blazor;Azure+%7C+Docker+%7C+Kubernetes;Studying+AI+Engineering+%7C+Cybersecurity+%7C+Backend+Engineering" alt="Typing SVG" />
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;Product+Engineer+%7C+Solutions+Architect+%7C+Technical+Lead;C%23+%7C+.NET+%7C+SQL+Server+%7C+REST+APIs;ASP.NET+Core+%7C+Blazor+%7C+React+%7C+Next.js;Azure+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Studying+AI+Engineering+%7C+Cybersecurity+%7C+Backend+Engineering">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;Product+Engineer+%7C+Solutions+Architect+%7C+Technical+Lead;C%23+%7C+.NET+%7C+SQL+Server+%7C+REST+APIs;ASP.NET+Core+%7C+Blazor+%7C+React+%7C+Next.js;Azure+%7C+Docker+%7C+Kubernetes+%7C+CI%2FCD;Studying+AI+Engineering+%7C+Cybersecurity+%7C+Backend+Engineering" alt="Typing SVG" />
 </a>
 
 <img src="./portrait.svg" width="100%" alt="Dennis Jayvee Patricio" />
@@ -59,99 +59,416 @@
 
 ---
 
-# 🏄‍♂️ Dennis Jayvee Patricio
+## About
+
+I'm **Dennis Jayvee Patricio**, a full stack software engineer from Bulacan, Philippines with **7+ years** of designing, developing and supporting business applications. I build scalable web applications, APIs and system integrations, and I modernise existing systems so they stay reliable and easy to maintain.
+
+I specialise in high performance **C#/.NET** backends, robust **REST APIs**, deep **SQL** optimisation and a proactive **DevOps** mindset, from automated CI/CD pipelines to infrastructure management. Every solution I ship is built for long term stability and systematised for scale, where **scalability and maintainability** meet.
+
+Today I'm a **Senior Software Engineer at Claymore Solutions**, working with **Luckbox Studios** on a sports prediction platform.
 
 **`Software Artisan (Code. Ride. Play.)`**
 
-I’m a full-stack developer from the Philippines with 7+ years of experience, passionate about building digital solutions that solve real-world problems. Whether it’s a tool that makes everyday tasks easier or a system that improves how people work and connect, I approach each project with purpose and creativity.
+### Roles I Play
 
-Every line of code I write is part of something thoughtfully designed — from planning and architecture, to clean implementation and continuous improvement. I enjoy working across the stack, learning new things, and turning ideas into functional, meaningful software that makes a difference.
+**Product Engineer • Solutions Architect • Technical Lead**
 
-- 💼 Currently a **Senior Software Engineer** at **Claymore Solutions**, working with Luckbox Studios
-- ⚡ I specialise in high-performance **C#/.NET** backends, robust **REST APIs**, deep **SQL** optimisation and a DevOps mindset (CI/CD, infrastructure)
-- 🧠 Currently studying **AI engineering**, **cybersecurity** and **backend engineering**
+### Engineering Focus
 
-### 🧭 Profile History
+* Microservices & Layered Design
+* Object-Oriented Design Patterns
+* Scalable API Design
+* Database Management
+* Data Analytics & Reporting
+* Identity & Access Management
+* CI/CD Pipeline Automation
+* Cloud Infrastructure
+* Containerization & Orchestration
 
-> 🏫 Technological University of the Philippines (Manila) : 2015 - 2019 `Bachelor of Science in Information System`<br />
-> 💼 Adelko Printing Press : Mar 2019 - Jun 2021 `Product Engineer`<br />
-> 💼 Sykes Asia : Jun 2021 - Jan 2023 `Associate Software Engineer`<br />
-> 💼 Ernst & Young - EY GDS : Jan 2023 - Apr 2023 `IAM - Java Developer`<br />
-> 💼 Ascendion Inc : May 2023 - Feb 2026 `.NET Developer`<br />
-> 💼 Claymore Solutions : May 2026 - (PRESENT) `Senior Software Engineer`<br />
-<br />
+### Currently Learning
+
+| Track | Focus |
+| --- | --- |
+| 🤖 **AI Engineering** | LLM applications, AI agents, RAG, evals, Model Context Protocol (MCP) |
+| 🛡️ **Cybersecurity** | Secure coding, OWASP Top 10, threat modelling, authentication and authorization, hands-on CTFs and labs |
+| ⚙️ **Backend Engineering** | System design, distributed systems, event sourcing with Kafka, databases, caching, observability, APIs |
 
 ---
 
-### 🧰 Programming Languages
+## Career Highlights
 
-<p align="left">
-  <img alt="C#" title="C#" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;
-  <img alt=".NET" title=".NET" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />&nbsp;
-  <img alt="TypeScript" title="TypeScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />&nbsp;
-  <img alt="JavaScript" title="JavaScript" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />&nbsp;
-  <img alt="HTML5" title="HTML5" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />&nbsp;
-  <img alt="CSS3" title="CSS3" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />&nbsp;
-  <img alt="SQL Server (T-SQL)" title="SQL Server (T-SQL)" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />&nbsp;
-  <img alt="Java" title="Java" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />&nbsp;
-  <img alt="C++" title="C++" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />&nbsp;
-  <img alt="Kotlin" title="Kotlin" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />&nbsp;
-  <img alt="Dart" title="Dart" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />&nbsp;
-  <img alt="PowerShell" title="PowerShell" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />&nbsp;
-  <img alt="Bash" title="Bash" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;
-  <img alt="YAML" title="YAML" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" />&nbsp;
-  <img alt="XML" title="XML" width="36" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-plain.svg" />
+| Highlight | Details |
+| --- | --- |
+| **Full-Scale Enterprise Digital Transformation** · Adelko | Spearheaded a ground-up ERP ecosystem centralising 100% of transactions, from Sales to HR, to automate manual workflows, eliminate operational silos and yield significant long-term cost savings. |
+| **System Optimization & Evolution** · Ascendion (Cebuana) | Improved the core insurance platform by optimising backend services, database performance and stored procedures, giving faster data processing, better stability and improved scalability for high-volume transactions. |
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css,bash,powershell,cpp,kotlin,dart&perline=16" />
 </p>
 
-### 🏆 Proficiency
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,graphql,postman,nodejs&perline=16" />
+</p>
+
+![ASP.NET Core][aspnetcore] ![Entity Framework][ef] ![LINQ][linq] ![Swagger][swagger] ![OpenAPI][openapi] ![SOAP][soap] ![gRPC][grpc] ![SignalR][signalr] ![JWT][jwt] ![OAuth][oauth]
+
+### Frontend, Desktop & Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma,flutter,androidstudio&perline=16" />
+</p>
+
+![Blazor][blazor] ![WinForms][winforms] ![DevExpress][devexpress] ![Strapi][strapi]
+
+### Databases & Reporting
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&perline=16" />
+</p>
+
+![SQL Server][mssql] ![Oracle][oracle] ![DynamoDB][dynamodb] ![SSRS][ssrs] ![SSIS][ssis] ![Crystal Reports][crystal] ![Power BI][powerbi]
+
+### Cloud & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,cloudflare,ubuntu,windows&perline=16" />
+</p>
+
+![Windows Server][winserver] ![IIS][iis] ![Cloudflare Turnstile][turnstile] ![Google reCAPTCHA][recaptcha]
+
+### DevOps, CI/CD & Monitoring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,terraform,ansible,nginx,prometheus,grafana&perline=16" />
+</p>
+
+![Azure Pipelines][azuredevops] ![OpenTelemetry][opentelemetry] ![Team Foundation][tfs]
+
+### Testing & Quality
+
+<p>
+<img src="https://skillicons.dev/icons?i=cypress,sentry&perline=16" />
+</p>
+
+![xUnit][xunit] ![Moq][moq]
+
+### Auth, Payments & Services
+
+<p>
+<img src="https://skillicons.dev/icons?i=supabase,firebase&perline=16" />
+</p>
+
+![AWS Cognito][cognito] ![Stripe][stripe] ![DragonPay][dragonpay] ![Amazon SES][ses] ![Amazon SNS][sns]
+
+### Tools & Collaboration
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,visualstudio,vscode&perline=16" />
+</p>
+
+![ReSharper][resharper] ![Cursor][cursor] ![Jira][jira] ![Confluence][confluence] ![Microsoft Teams][teams] ![Monday][monday] ![Draw.io][drawio]
+
+### AI & Generative Tools
+
+![GitHub Copilot][copilot] ![Claude][claude] ![ChatGPT][chatgpt] ![Gemini][gemini]
+
+### Architecture, Principles, Protocols & Methodologies
 
 <table>
   <thead>
     <tr>
       <th align="left">🌐 Architecture</th>
-      <th align="center">⚙️ API Protocols</th>
-      <th align="right">🚀 Methodologies</th>
+      <th align="left">⚙️ Principles</th>
+      <th align="left">🔌 API Protocols</th>
+      <th align="left">🚀 Methodologies</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="left" valign="top">
-        ✅ Layered Architecture<br>
-        ✅ Microservices Architecture<br>
-        ✅ Monolithic Architecture<br>
-        ✅ Event-Driven Architecture<br>
-        ✅ MVC
-      </td>
-      <td align="center" valign="top">
-        ✅ REST<br>
-        ✅ SOAP<br>
-        ✅ GraphQL<br>
-        ✅ gRPC<br>
-        ✅ SignalR (real time)
-      </td>
-      <td align="right" valign="top">
-        ✅ Scrum<br>
-        ✅ Waterfall Model<br>
-        ✅ Agile Development<br>
-        ✅ Kanban
-      </td>
+      <td valign="top">✅ Layered<br>✅ Microservices<br>✅ Monolithic<br>✅ Event-Driven<br>✅ MVC</td>
+      <td valign="top">✅ OOP & SOLID<br>✅ Design Patterns<br>✅ Asynchronous Programming<br>✅ Dependency Injection</td>
+      <td valign="top">✅ REST<br>✅ SOAP<br>✅ GraphQL<br>✅ gRPC<br>✅ SignalR (real time)</td>
+      <td valign="top">✅ Scrum<br>✅ Agile<br>✅ Kanban<br>✅ Waterfall</td>
     </tr>
   </tbody>
 </table>
 
-### 🔥 My Core Tech Stack
+📊 Full map of everything I work with: [Tech Stack](https://tinyurl.com/djp-techstack)
 
-| Area | Stack |
-| :-- | :-- |
-| ⚙️ **Backend & APIs** | ![.NET][dotnet] ![ASP.NET Core][aspnetcore] ![Blazor][blazor] ![WinForms][winforms] ![Entity Framework][ef] ![xUnit][xunit] ![Node.js][nodejs] ![GraphQL][graphql] ![Swagger][swagger] ![JWT][jwt] ![OAuth][oauth] |
-| 🎨 **Frontend & Mobile** | ![React][react] ![Next.js][nextjs] ![Tailwind CSS][tailwind] ![Bootstrap][bootstrap] ![Strapi][strapi] ![Figma][figma] ![DevExpress][devexpress] ![Flutter][flutter] ![Android][android] |
-| 🗄️ **Databases & Reporting** | ![SQL Server][mssql] ![MySQL][mysql] ![PostgreSQL][postgresql] ![SQLite][sqlite] ![Oracle][oracle] ![MongoDB][mongodb] ![Redis][redis] ![DynamoDB][dynamodb] ![Elasticsearch][elasticsearch] ![Neo4j][neo4j] ![SSRS][ssrs] ![SSIS][ssis] ![Crystal Reports][crystal] ![Power BI][powerbi] |
-| ☁️ **Cloud & Services** | ![Azure][azure] ![AWS][aws] ![Google Cloud][gcp] ![Cloudflare][cloudflare] ![Firebase][firebase] ![Supabase][supabase] ![Stripe][stripe] ![Windows Server][winserver] ![IIS][iis] ![Ubuntu Server][ubuntu] |
-| 🚀 **DevOps & Monitoring** | ![Azure DevOps][azuredevops] ![GitHub Actions][ghactions] ![Jenkins][jenkins] ![Docker][docker] ![Kubernetes][kubernetes] ![Terraform][terraform] ![Ansible][ansible] ![NGINX][nginx] ![Prometheus][prometheus] ![Grafana][grafana] ![Sentry][sentry] ![Cypress][cypress] |
-| 🛠️ **Tools & Collaboration** | ![Git][git] ![GitHub][github] ![Bitbucket][bitbucket] ![Visual Studio][vs] ![VS Code][vscode] ![ReSharper][resharper] ![Cursor][cursor] ![Postman][postman] ![Jira][jira] ![Confluence][confluence] ![Draw.io][drawio] |
-| 🤖 **AI** | ![GitHub Copilot][copilot] ![Claude][claude] ![ChatGPT][chatgpt] ![Gemini][gemini] |
+---
 
-<br />
+## Skills Rating
+
+| Area | Rating | Experience | Details |
+| --- | :---: | :---: | --- |
+| C# | ⭐⭐⭐⭐⭐ | 7 yrs 1 mo | Every role since 2019 |
+| .NET Framework & .NET Core | ⭐⭐⭐⭐⭐ | 6 yrs 9 mos | Web APIs, web apps, console apps, class libraries |
+| ASP.NET Web API, REST, Swagger, Postman | ⭐⭐⭐⭐⭐ | 6 yrs 9 mos | API design, documentation and testing |
+| SQL Server & T-SQL | ⭐⭐⭐⭐⭐ | 6 yrs 9 mos | Schema design, stored procedures, query optimisation |
+| Blazor | ⭐⭐⭐⭐⭐ | 6 yrs 9 mos | Full stack .NET web apps |
+| WinForms | ⭐⭐⭐⭐⭐ | 3 yrs 11 mos | Desktop apps, kiosks, facial recognition tooling |
+| Architecture styles | ⭐⭐⭐⭐⭐ | 4 to 6 yrs | Monolithic, microservices, layered, MVC, event-driven |
+| OOP, async, dependency injection | ⭐⭐⭐⭐⭐ | 4 to 6 yrs | Clean, testable, maintainable code |
+| xUnit, Moq, unit testing | ⭐⭐⭐⭐⭐ | 4 yrs 6 mos | Regression coverage and test-first fixes |
+| Git, GitHub, Visual Studio, VS Code | ⭐⭐⭐⭐⭐ | 4 to 6 yrs | Daily drivers |
+| MySQL | ⭐⭐⭐⭐⭐ | 2 yrs 7 mos | Adelko and EY |
+| TypeScript, React, Next.js, Tailwind | ⭐⭐⭐⭐ | 2 yrs 10 mos | Modern web front ends |
+| Entity Framework & LINQ | ⭐⭐⭐⭐ | 4 to 6 yrs | Data access and querying |
+| Azure & Azure Pipelines | ⭐⭐⭐⭐ | 4 yrs 6 mos | Cloud hosting and CI/CD |
+| SOAP | ⭐⭐⭐⭐ | 2 yrs 10 mos | Enterprise integrations |
+| Sentry, Supabase, Turnstile, reCAPTCHA | ⭐⭐⭐⭐ | 2 yrs 10 mos | Monitoring, backend as a service, bot protection |
+| AI assistants | ⭐⭐⭐⭐ | 2 yrs 10 mos | GitHub Copilot, Claude, ChatGPT, Gemini |
+| Docker, Kubernetes, Jenkins, NGINX | ⭐⭐⭐ | 2 yrs 10 mos | Containers, orchestration and pipelines |
+| Prometheus, Grafana, OpenTelemetry | ⭐⭐⭐ | 2 yrs 10 mos | Observability |
+| AWS & GCP | ⭐⭐⭐ | 2 yrs 10 mos | Cognito, SES, SNS and core services |
+| PostgreSQL, Redis, GraphQL | ⭐⭐⭐ | 2 yrs 10 mos | Relational data, caching and query APIs |
+
+📋 Every technology with years and employers: [Skills Rating](https://tinyurl.com/djp-skills-rating)
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>01 · Adelko Management System (ERP)</strong></summary>
+
+<br/>
+
+A ground-up enterprise suite that scaled a college-era prototype into a full production ERP, built solo after the company President appointed me to lead it.
+
+| Dimension | Details |
+| --- | --- |
+| **Company** | Adelko Printing Press |
+| **Role** | Product Engineer (sole engineer) |
+| **Scope** | Sales, HR, Inventory, real-time Job Monitoring and a custom attendance Kiosk |
+| **Impact** | Centralised 100% of company transactions and automated the entire business lifecycle from scratch |
+| **Result** | Removed operational bottlenecks and significantly reduced overhead costs |
+
+</details>
+
+<details>
+<summary><strong>02 · REO Enrollment & Management System</strong></summary>
+
+<br/>
+
+A high-volume enrollment platform for managing thousands of applicants end to end.
+
+| Dimension | Details |
+| --- | --- |
+| **Company** | Adelko Printing Press |
+| **Role** | Product Engineer |
+| **Scope** | Automated seat allocation, payment integration and student tracking |
+| **Impact** | Efficient management of thousands of applicants |
+
+</details>
+
+<details>
+<summary><strong>03 · Cebuana Insurance Management System</strong></summary>
+
+<br/>
+
+A large-scale policy management system on a core insurance platform.
+
+| Dimension | Details |
+| --- | --- |
+| **Company** | Ascendion Digital Solutions |
+| **Role** | .NET Developer |
+| **Scope** | Payment processing and policy tracking modules, backend services, stored procedures |
+| **Impact** | Faster data processing, better stability and improved scalability for high-volume transactions |
+
+</details>
+
+<details>
+<summary><strong>04 · AXA Ecommerce REST API</strong></summary>
+
+<br/>
+
+An eCommerce REST API for product management and order processing.
+
+| Dimension | Details |
+| --- | --- |
+| **Company** | Ascendion Digital Solutions |
+| **Role** | .NET Developer |
+| **Scope** | Feature refinement, bug fixes and endpoint optimisation |
+| **Impact** | Seamless API integration across teams with high security standards |
+
+</details>
+
+<details>
+<summary><strong>05 · Centralized Roster Tool & Online Attendance Tracking</strong></summary>
+
+<br/>
+
+In-house web and console applications for roster allocation and attendance tracking.
+
+| Dimension | Details |
+| --- | --- |
+| **Company** | Sykes Asia |
+| **Role** | Associate Software Engineer |
+| **Scope** | Feature enhancements, optimisation and bug fixes |
+| **Impact** | Streamlined scheduling workflows and better operational efficiency |
+
+</details>
+
+<details>
+<summary><strong>06 · Interview Facial Recognition Software</strong></summary>
+
+<br/>
+
+A custom Windows application that verifies applicant identity through photo analysis.
+
+| Dimension | Details |
+| --- | --- |
+| **Company** | Sykes Asia |
+| **Role** | Associate Software Engineer |
+| **Scope** | Automated applicant identity verification |
+| **Impact** | Stronger security and a faster vetting process |
+
+</details>
+
+<details>
+<summary><strong>07 · Sports Prediction Platform</strong></summary>
+
+<br/>
+
+Sports data ingestion and canonical entity workflows on a sports prediction platform.
+
+| Dimension | Details |
+| --- | --- |
+| **Company** | Claymore Solutions (Client: Luckbox Studios) |
+| **Role** | Senior Software Engineer |
+| **Scope** | Data ingestion and validation, participant mappings, identity resolution rules, data quality |
+| **Impact** | More accurate downstream records and more reliable API search through regression coverage |
+
+</details>
+
+### Personal & Learning Repos
+
+| Repository | What it is |
+| --- | --- |
+| [djdpatricio_2025-csharp-aspnetwebapi](https://github.com/djdpatricio/djdpatricio_2025-csharp-aspnetwebapi) | Sample ASP.NET Web API for an Insurance Management System |
+| [djdpatricio_2016-csharp-winforms](https://github.com/djdpatricio/djdpatricio_2016-csharp-winforms) | My C# WinForms learning project from second year of college |
+| [djdpatricio_2015-turboc](https://github.com/djdpatricio/djdpatricio_2015-turboc) | C++ projects from my first year of college |
+
+---
+
+## Experience
+
+### 💼 Senior Software Engineer · Claymore Solutions (Client: Luckbox Studios)
+
+**May 2026 – Present**
+
+*Contributing to a sports prediction platform by improving data quality, search reliability, technical documentation and test coverage across sports data ingestion and canonical entity workflows.*
+
+* Worked on sports data ingestion and validation by documenting participant mappings, identity resolution rules and data quality considerations for accurate downstream records.
+* Improved API search reliability through testing and regression coverage for various filtering scenarios.
+* Contributed to engineering documentation, pull request reviews and Confluence knowledge base updates in a .NET/C# environment.
+
+**Skills:** `C#` `.NET` `REST APIs` `Unit Testing` `Regression Testing` `Data Quality` `Code Review` `Documentation` `Confluence`
+
+---
+
+### 💼 .NET Developer · Ascendion Digital Solutions Philippines
+
+**May 2023 – Feb 2026** · Makati City, Metro Manila
+
+*Contributed to large-scale, mission-critical products in a specialised engineering culture with modern tech stacks and rigorous development standards.*
+
+* **AXA Ecommerce:** refined features and resolved bugs for the eCommerce REST API, optimising endpoints for product management and order processing, and worked with other teams on seamless, secure API integration.
+* **Cebuana Insurance Management System:** improved payment processing and policy tracking modules for better performance, stability and user experience.
+
+**Skills:** `C#` `.NET Core` `ASP.NET Web API` `Blazor` `TypeScript` `React` `Next.js` `Tailwind` `Strapi` `SQL Server` `PostgreSQL` `MongoDB` `Redis` `Entity Framework` `Microservices` `REST` `SOAP` `GraphQL` `Azure` `AWS` `GCP` `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Terraform` `Prometheus` `Grafana` `OpenTelemetry` `xUnit` `Cypress` `Sentry` `Stripe` `Supabase` `Jira`
+
+---
+
+### 🛡️ IAM Java Developer · Ernst & Young GDS (CS) Philippines
+
+**Jan 2023 – Apr 2023** · Taguig, Metro Manila
+
+*Specialised in secure identity governance and lifecycle automation, building a security-first mindset, then returned to full stack development to combine that security expertise with building robust web apps.*
+
+**Skills:** `Java` `MySQL` `Identity & Access Management` `Identity Governance` `Lifecycle Automation`
+
+---
+
+### 💼 Associate Software Engineer · Sykes Asia
+
+**Jun 2021 – Jan 2023** · Makati City, Metro Manila
+
+*Moved into an enterprise setting to master how high-level systems operate at scale within a complex, global infrastructure.*
+
+* **Centralized Roster Tool & Online Attendance Tracking System:** developed and optimised in-house web and console applications for roster allocation and attendance tracking.
+* **Interview Facial Recognition Software:** built a custom Windows application that automates applicant identity verification through photo analysis.
+
+**Skills:** `C#` `.NET` `ASP.NET Web API` `Blazor` `WinForms` `SQL Server` `T-SQL` `Entity Framework` `LINQ` `Microservices` `Layered Architecture` `Dependency Injection` `Azure` `Azure Pipelines` `Team Foundation` `xUnit` `Moq` `Bash`
+
+---
+
+### 🚀 Product Engineer · Adelko Printing Press
+
+**Mar 2019 – Jun 2021** · Valenzuela City, Metro Manila
+
+*Appointed by the President to scale a proprietary college-era prototype into a full production ERP ecosystem, centralising 100% of company transactions and automating the entire business lifecycle from scratch.*
+
+* **Adelko Management System:** solely engineered a ground-up enterprise suite integrating Sales, HR, Inventory and real-time Job Monitoring, plus attendance tracking through a custom Kiosk.
+* **REO Enrollment & Management System:** designed and delivered a high-volume enrollment platform with automated seat allocation, payment integration and student tracking.
+
+**Skills:** `C#` `.NET Framework` `ASP.NET Web API` `Blazor` `WinForms` `DevExpress` `Java` `JavaScript` `Bootstrap` `SQL Server` `MySQL` `T-SQL` `LINQ` `Monolithic Architecture` `MVC` `Event-Driven` `REST` `Windows Server` `Git` `GitHub` `Monday`
+
+---
+
+## Education
+
+| | School | Program | Years |
+| :---: | --- | --- | :---: |
+| 🎓 | Technological University of the Philippines, Manila | Bachelor of Science in Information System | 2015 – 2019 |
+| 🏫 | San Mateo Vocational & Industrial High School, Isabela | High School & NC2 Electronics Engineering | 2011 – 2015 |
+
+---
+
+## At a Glance
+
+<div align="center">
+
+| Recognition | Details |
+| :---: | --- |
+| **7+ Years Engineering** | Full stack delivery across product, enterprise, consulting and client work |
+| **100% of Transactions Centralised** | Built Adelko's ERP solo, from a college prototype to production |
+| **Mission-Critical Platforms** | Insurance (Cebuana), eCommerce (AXA) and sports prediction (Luckbox) |
+| **Security-First Mindset** | Identity governance and lifecycle automation at EY |
+| **Always Learning** | AI engineering, cybersecurity and backend engineering in parallel |
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7C3AED/djdpatricio" width="100%" alt="GitHub contribution chart" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `Code. Ride. Play.`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:312e81&height=120&section=footer&animation=fadeIn" width="100%" />
+
+</div>
 
 <!-- Badge definitions -->
 
@@ -232,3 +549,20 @@ Every line of code I write is part of something thoughtfully designed — from p
 [claude]: https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white
 [chatgpt]: https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4=&logoColor=white
 [gemini]: https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white
+
+[linq]: https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[openapi]: https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white
+[soap]: https://img.shields.io/badge/SOAP-4B5563?style=for-the-badge
+[grpc]: https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge
+[signalr]: https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[turnstile]: https://img.shields.io/badge/Cloudflare%20Turnstile-F38020?style=for-the-badge&logo=cloudflare&logoColor=white
+[recaptcha]: https://img.shields.io/badge/reCAPTCHA-4285F4?style=for-the-badge&logo=google&logoColor=white
+[opentelemetry]: https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white
+[tfs]: https://img.shields.io/badge/Team%20Foundation-5C2D91?style=for-the-badge
+[moq]: https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=dotnet&logoColor=white
+[cognito]: https://img.shields.io/badge/AWS%20Cognito-DD344C?style=for-the-badge&logo=amazoncognito&logoColor=white
+[dragonpay]: https://img.shields.io/badge/DragonPay-E31B23?style=for-the-badge
+[ses]: https://img.shields.io/badge/Amazon%20SES-DD344C?style=for-the-badge&logo=amazonsimpleemailservice&logoColor=white
+[sns]: https://img.shields.io/badge/Amazon%20SNS-E7157B?style=for-the-badge&logo=amazonsimplenotificationservice&logoColor=white
+[teams]: https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white
+[monday]: https://img.shields.io/badge/Monday-FF3D57?style=for-the-badge&logo=mondaydotcom&logoColor=white
