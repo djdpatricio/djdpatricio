@@ -1,26 +1,31 @@
-# 🏄‍♂️ Dennis Jayvee Patricio
+<div align="center">
 
-**`Software Artisan (Code. Ride. Play.)`**
+<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;Full+Stack+.NET+Developer;C%23+%7C+TypeScript+%7C+SQL;ASP.NET+Core+%7C+React+%7C+Next.js+%7C+Blazor;Azure+%7C+Docker+%7C+Kubernetes;Studying+AI+Engineering+%7C+Cybersecurity+%7C+Backend+Engineering">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Senior+Software+Engineer;Full+Stack+.NET+Developer;C%23+%7C+TypeScript+%7C+SQL;ASP.NET+Core+%7C+React+%7C+Next.js+%7C+Blazor;Azure+%7C+Docker+%7C+Kubernetes;Studying+AI+Engineering+%7C+Cybersecurity+%7C+Backend+Engineering" alt="Typing SVG" />
+</a>
 
-I’m a full-stack developer from the Philippines with 7+ years of experience, passionate about building digital solutions that solve real-world problems. Whether it’s a tool that makes everyday tasks easier or a system that improves how people work and connect, I approach each project with purpose and creativity.
+<img src="./portrait.svg" width="100%" alt="Dennis Jayvee Patricio" />
 
-Every line of code I write is part of something thoughtfully designed — from planning and architecture, to clean implementation and continuous improvement. I enjoy working across the stack, learning new things, and turning ideas into functional, meaningful software that makes a difference.
+<img src="https://streak-stats.demolab.com/?user=djdpatricio&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&card_width=1180" width="100%" alt="GitHub Streak Stats" />
 
-- 💼 Currently a **Senior Software Engineer** at **Claymore Solutions**, working with Luckbox Studios
-- ⚡ I specialise in high-performance **C#/.NET** backends, robust **REST APIs**, deep **SQL** optimisation and a DevOps mindset (CI/CD, infrastructure)
-- 🧠 Currently studying **AI engineering**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=djdpatricio&show_icons=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=djdpatricio&show_icons=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=djdpatricio&show_icons=true&hide_rank=true&hide_border=true&title_color=0F172A&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500" alt="GitHub Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=djdpatricio&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=djdpatricio&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djdpatricio&layout=compact&langs_count=8&hide_border=true&title_color=0F172A&text_color=475569&bg_color=FFFFFF&card_width=500" alt="Top Languages" />
+</picture>
 
-### 🧭 Profile History
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/djdpatricio/djdpatricio/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/djdpatricio/djdpatricio/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/djdpatricio/djdpatricio/output/snake-light.svg" />
+</picture>
 
-> 🏫 Technological University of the Philippines (Manila) : 2015 - 2019 `Bachelor of Science in Information System`<br />
-> 💼 Adelko Printing Press : Mar 2019 - Jun 2021 `Product Engineer`<br />
-> 💼 Sykes Asia : Jun 2021 - Jan 2023 `Associate Software Engineer`<br />
-> 💼 Ernst & Young - EY GDS : Jan 2023 - Apr 2023 `IAM - Java Developer`<br />
-> 💼 Ascendion Inc : May 2023 - Feb 2026 `.NET Developer`<br />
-> 💼 Claymore Solutions : May 2026 - (PRESENT) `Senior Software Engineer`<br />
-<br />
-
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/">
     <img alt="facebook" title="Connect with me on Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
@@ -38,7 +43,7 @@ Every line of code I write is part of something thoughtfully designed — from p
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://tinyurl.com/djp-resume-new-latest-2026">
     <img alt="resume" title="View my resume" src="https://img.shields.io/badge/Resume-4285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
@@ -49,6 +54,32 @@ Every line of code I write is part of something thoughtfully designed — from p
     <img alt="skills rating" title="View my skills rating" src="https://img.shields.io/badge/Skills_Rating-34A853.svg?style=for-the-badge&logo=googlesheets&logoColor=white"/>
   </a>
 </p>
+
+</div>
+
+---
+
+# 🏄‍♂️ Dennis Jayvee Patricio
+
+**`Software Artisan (Code. Ride. Play.)`**
+
+I’m a full-stack developer from the Philippines with 7+ years of experience, passionate about building digital solutions that solve real-world problems. Whether it’s a tool that makes everyday tasks easier or a system that improves how people work and connect, I approach each project with purpose and creativity.
+
+Every line of code I write is part of something thoughtfully designed — from planning and architecture, to clean implementation and continuous improvement. I enjoy working across the stack, learning new things, and turning ideas into functional, meaningful software that makes a difference.
+
+- 💼 Currently a **Senior Software Engineer** at **Claymore Solutions**, working with Luckbox Studios
+- ⚡ I specialise in high-performance **C#/.NET** backends, robust **REST APIs**, deep **SQL** optimisation and a DevOps mindset (CI/CD, infrastructure)
+- 🧠 Currently studying **AI engineering**, **cybersecurity** and **backend engineering**
+
+### 🧭 Profile History
+
+> 🏫 Technological University of the Philippines (Manila) : 2015 - 2019 `Bachelor of Science in Information System`<br />
+> 💼 Adelko Printing Press : Mar 2019 - Jun 2021 `Product Engineer`<br />
+> 💼 Sykes Asia : Jun 2021 - Jan 2023 `Associate Software Engineer`<br />
+> 💼 Ernst & Young - EY GDS : Jan 2023 - Apr 2023 `IAM - Java Developer`<br />
+> 💼 Ascendion Inc : May 2023 - Feb 2026 `.NET Developer`<br />
+> 💼 Claymore Solutions : May 2026 - (PRESENT) `Senior Software Engineer`<br />
+<br />
 
 ---
 
@@ -121,11 +152,6 @@ Every line of code I write is part of something thoughtfully designed — from p
 | 🤖 **AI** | ![GitHub Copilot][copilot] ![Claude][claude] ![ChatGPT][chatgpt] ![Gemini][gemini] |
 
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=djdpatricio&show_icons=true&theme=dark" alt="djdpatricio's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djdpatricio&layout=compact&theme=dark" alt="djdpatricio's Top Languages" />
-</div>
 
 <!-- Badge definitions -->
 
