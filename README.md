@@ -88,7 +88,7 @@ Currently a **Senior Software Engineer at Claymore Solutions**, working with **L
   <tr>
     <td valign="top">Product Engineer<br/>Solutions Architect<br/>Technical Lead</td>
     <td valign="top">Microservices & Layered Design<br/>Object-Oriented Design Patterns<br/>Scalable API Design<br/>Database Management<br/>Data Analytics & Reporting<br/>Identity & Access Management<br/>CI/CD Pipeline Automation<br/>Cloud Infrastructure<br/>Containerization & Orchestration</td>
-    <td valign="top"><b>🤖 AI Engineering</b><br/><sub>LLM apps, agents, RAG, evals, MCP</sub><br/><br/><b>🛡️ Cybersecurity</b><br/><sub>Secure coding, OWASP Top 10, threat modelling, auth, CTFs and labs</sub><br/><br/><b>⚙️ Backend Engineering</b><br/><sub>System design, distributed systems, Kafka event sourcing, caching, observability</sub></td>
+    <td valign="top"><b>🤖 AI Engineering</b><br/><sub>LLM apps, agents, RAG, evals, MCP</sub><br/><br/><b>🛡️ Cybersecurity</b><br/><sub>Secure coding, OWASP Top 10, threat modelling, auth, CTFs and labs</sub><br/><br/><b>⚙️ Backend Engineering</b><br/><sub>System design, distributed systems, Kafka event sourcing, caching, observability</sub><br/><br/><b>🌐 Full Stack Web</b><br/><sub>TypeScript, React, Next.js, shadcn and PostgreSQL on a private training platform</sub></td>
   </tr>
 </table>
 
